@@ -1,0 +1,5 @@
+agent:
+  class_name: Test_agent3Agent
+  description: This is a test agent for the semantic subscription service
+  domain: test_agents
+  package_name: test_agent3
